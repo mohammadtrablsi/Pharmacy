@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1092224003962",
+    "project_id": "pharmsy-bcdb8",
+    "storage_bucket": "pharmsy-bcdb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092224003962:android:cb86f7aeb811197a4b70c3",
+        "android_client_info": {
+          "package_name": "com.example.pharmacy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIApy82SZT_19GT5nlyRPyKlgF-zEsTNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
